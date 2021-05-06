@@ -1,2 +1,2 @@
-# fio-random-eaxperiments
+# fio-random-experiments
 Experiments using fio randomization
