@@ -1,0 +1,8 @@
+[global]
+ioengine=libaio
+iodepth=100
+direct=1
+bs=1024k
+rw=randread
+[rr]
+filename=/dev/sdb
